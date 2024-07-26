@@ -1,0 +1,1 @@
+DOWNLOAD_URL_arm64=https://packages.gitlab.com/gitlab/gitlab-ce/packages/ubuntu/jammy/gitlab-ce_${RELEASE_VERSION}_arm64.deb/download.deb
