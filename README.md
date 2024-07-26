@@ -12,7 +12,7 @@ services:
     hostname: gitlab
     environment:
       GITLAB_OMNIBUS_CONFIG: |
-        external_url 'http://gitlab.nb.io'
+        external_url 'http://gitlab.devops.nb'
         gitlab_rails['gitlab_shell_ssh_port'] = 2424
     ports:
       - '80:80'
